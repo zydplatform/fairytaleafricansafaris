@@ -1,0 +1,86 @@
+<html><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <!--    google analytics file to track usage-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46056626-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-46056626-3');
+
+    </script>
+
+
+    <!--    head tags-->
+    <!--    <meta charset="utf-8">-->
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Best places to visit in eastern Africa. Travelling to Africa? GoExplore Safaris offers information on the various travel safari destinations as well as quality travel services that include luxury tours, safaris and vacations to the countries of Uganda, Rwanda, Kenya and Tanzania, Zanzibar Islands, Masai Mara,  Ishasha tree climbing lions, wildebeest migration, the great migration. Choosing the best places to visit in eastern Africa can be daunting as this region has many unique destinations worth visiting. But there are some destinations that are particularly more worth visiting than others">
+
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="generator" content="bootstrap 4">
+    <meta name="robots" content="index,follow">
+    <meta name="author" content="GoExplore Safaris">
+    <meta name="keywords" content="Rwanda, tanzania, kenya, masai Mara game reserve, bwindi gorilla forest, gorilla trekking, gorilla trackking, wildebeest migration, the great migration, kidepo valley national park, lake victoria, queen elizabeth national Park, tree climbing lions.">
+    <meta name="copyright" content="GoExplore Safaris is a registered company under GoExplore Limited">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lato|Permanent+Marker|Raleway" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css?family=Boogaloo" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css?family=Special+Elite" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+<link rel="icon" href="../images/logo/favicon-final.png" type="image/png">
+
+
+<link href="../../goexploresafaris.com/vendor/bootstrap/css/bootstrap.min.css" rel=stylesheet>
+<link href="../../goexploresafaris.com/fonts/font-awesome/css/font-awesome.min.css" rel=stylesheet>
+<link href="../../goexploresafaris.com/fonts/iconic/css/material-design-iconic-font.min.css" rel=stylesheet>
+<link href="../../goexploresafaris.com/css/mobilec164.css?v=9" rel=stylesheet type="text/css">
+<link href="../../goexploresafaris.com/css/styles7893.css?v=24" rel=stylesheet type="text/css">
+
+
+<link href="../../goexploresafaris.com/css/footer-styles6704.css?v=44" rel=stylesheet type="text/css">
+
+<link href="../../goexploresafaris.com/css/responsive6704.css?v=44" rel=stylesheet type="text/css" />
+<link href="../../goexploresafaris.com/css/feedback.css" rel=stylesheet type="text/css" />
+<link href="../../goexploresafaris.com/css/jquery.dropdown.min.css" rel=stylesheet type="text/css" />
+
+
+<link href="https://fonts.googleapis.com/css?family=Hind|Lato" rel="stylesheet" />
+
+<!--<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet" />-->
+<link href="https://fonts.googleapis.com/css?family=Oregano" rel="stylesheet" />
+<!--<link href="https://fonts.googleapis.com/css?family=Allura" rel="stylesheet" />-->
+<!--<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" />-->
+
+
+<script src="../../goexploresafaris.com/js/responsivejs.js"></script>
+
+<script>
+    JS.Responsive
+        .init()
+        .addHorizontalBreakPoint('micro', 420)
+        .addHorizontalBreakPoint('tiny', 478)
+        .addHorizontalBreakPoint('small', 768)
+        .addHorizontalBreakPoint('medium', 992)
+        .addHorizontalBreakPoint('large', 1230);
+
+    function toggleMenu() {
+        $(".collapse-menu").toggleClass("show");
+    }
+
+</script>
+
+    <!--    include styles-->
+    QUERY: select * from activities where id in ()<br>
+ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1<br>

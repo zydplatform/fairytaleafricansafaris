@@ -1,0 +1,113 @@
+html.medium-less .h-o-mobile {
+    display: none !important;
+}
+
+html.medium-less .mobile {
+    visibility: visible !important;
+    display: block;
+}
+
+html.medium-less .m-logo {
+    width: 50% !important;
+    background-size: 90% !important;
+    margin: 0 20px;
+    display: inline-block !important;
+    margin-top: 1px;
+    height: 85px;
+    background-image: url(../images/logo/goexplore-safaris-logo-gray.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+html.medium-less .open-menu {
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-left: 1px solid #eee;
+}
+
+html.medium-less .nav-menu {
+    background: #333;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: -90%;
+    width: 80%;
+    box-shadow: -6px 0 20px rgba(0, 0, 0, 0.4);
+    padding-top: 60px;
+    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.4s;
+    -moz-transition-duration: 0.4s;
+}
+
+html.medium-less .nav-menu.open {
+    right: 0;
+}
+
+html.medium-less .nav-menu .close {
+    position: absolute;
+    right: 20px;
+    top: -40px;
+    display: block;
+    background-image: url(../images/other/cancel-music.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+}
+
+html.medium-less .nav-menu .close:hover {
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+html.medium-less .nav-menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+html.medium-less .nav-menu .container-fluid,
+html.medium-less .nav-menu .col-12 {
+    padding: 0 !important;
+}
+
+html.medium-less .nav-menu .nav-item {
+    display: block !important;
+    border-bottom: 1px solid #111;
+    text-align: left !important;
+    margin: 0;
+}
+
+html.medium-less .nav-menu .nav-item .nav-link {
+    padding: 0px 10px;
+    height: 60px;
+    line-height: 60px;
+    color: #888;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+html.medium-less .carousel-item {
+    height: 50vh;
+    min-height: 100px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*medium more */
+
+html.medium-more:not(.large) .nav-menu .nav-item a {
+   font-size: 10pt;
+    padding: 0px 4px;
+}
+html.medium-more:not(.large) .nav-menu .inquire {
+   font-size: 16pt;
+    top: 0px;
+    padding: 0px 4px;
+}
+
